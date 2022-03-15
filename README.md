@@ -1,2 +1,4 @@
 # Regression_GeelyCars
-Predicting G
+## Description
+In this repository I built a regression algorithm to build a Car price predictor to predict Car prices in a Chinese company named "Geely" & also find out what factors affect the price of Cars. 
+
